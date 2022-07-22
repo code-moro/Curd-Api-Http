@@ -47,7 +47,7 @@ This is a API built using HTTP. This application is used to perform curd operati
 
 ### API EndPoint : /movie
  
-![getrequestphoto](Images\GetMovie.png)
+![getrequestphoto](Images/GetMovie.png)
 
 ### Output
 
@@ -82,7 +82,7 @@ This is a API built using HTTP. This application is used to perform curd operati
 
 ### API EndPoint : /movie
 
-![postrequest](Images\PostMovie.png)
+![postrequest](Images/PostMovie.png)
 
 #### Output
 ```
@@ -96,7 +96,7 @@ This is a API built using HTTP. This application is used to perform curd operati
 
 ### API EndPoint : /movie/{id}
 
-![updaterequest](Images\UpdateMovie.png)
+![updaterequest](Images/UpdateMovie.png)
 
 #### Output
 ```
@@ -108,7 +108,7 @@ This is a API built using HTTP. This application is used to perform curd operati
 
 ### API EndPoint : /movie/{id}
 
-![deleterequest](Images\DeleteMovie.png)
+![deleterequest](Images/DeleteMovie.png)
 
 #### Output
 ```
